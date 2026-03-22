@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/srspinho/Key_Counter_volume/blob/main/IMG_20260322_165428.jpg" width="400">
+</p>
 
 Este projeto transforma um Raspberry Pi Pico (RP2040) em um remapeador de teclado USB inteligente e monitor de sistema. Ele atua como um "man-in-the-middle", interceptando comandos de um teclado físico e remapeando teclas específicas enquanto exibe estatísticas em tempo real em um display OLED.
 
